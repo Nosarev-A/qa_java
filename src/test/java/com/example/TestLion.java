@@ -1,3 +1,5 @@
+package com.example;
+
 import com.example.IFeline;
 import com.example.Lion;
 import org.junit.Assert;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="TestLion" time="0.1" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="TestLion" time="0.044" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -62,9 +62,9 @@
     <property name="sun.stdout.encoding" value="UTF-8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="TestLion" name="testUnknownLionSex" time="0.1"/>
+  <testcase classname="TestLion" name="testUnknownLionSex" time="0.041"/>
   <testcase classname="TestLion" name="testLionFemaleIsFalse" time="0"/>
   <testcase classname="TestLion" name="testGetKittens" time="0"/>
-  <testcase classname="TestLion" name="testLionMaleIsTrue" time="0"/>
+  <testcase classname="TestLion" name="testLionMaleIsTrue" time="0.003"/>
   <testcase classname="TestLion" name="testLionFoodIsMeat" time="0"/>
 </testsuite>
